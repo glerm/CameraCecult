@@ -1,0 +1,10 @@
+{
+    "cordova-plugin-camera-preview": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-camera-preview@https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview.git"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

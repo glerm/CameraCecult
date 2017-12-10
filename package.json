@@ -1,0 +1,17 @@
+{
+    "name": "com.cordovaplugincamerapreview.sampleapp",
+    "version": "1.0.0",
+    "displayName": "cordova-plugin-camera-sample-app",
+    "cordova": {
+        "platforms": [
+            "android"
+        ],
+        "plugins": {
+            "cordova-plugin-camera-preview": {}
+        }
+    },
+    "dependencies": {
+        "cordova-android": "~6.2.3",
+        "cordova-plugin-camera-preview": "https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview.git"
+    }
+}
